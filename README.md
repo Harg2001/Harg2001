@@ -14,9 +14,9 @@ Previously, I've developed:
 
 - 🛠️ **Main focus**: Coding and game/system design
 - 🎨 I use **free/open-source assets** when they fit my vision, but most of the game is custom-built
-- 💻 I develop primarily in **GDScript** using **Godot**
+- 💻 I develop currently in **GDScript** using **Godot**
 - 🌱 I'm passionate about solo game dev but aspire to build a small studio eventually
-- 📚 Inspired by creative studios like **Ankama** (*Dofus*, *Wakfu*) and **Motion Twin** (*Dead Cells*)
+- 📚 Inspired by creative studios like **Ankama** (*Dofus*, *Wakfu*) and **Motion Twin** (*Hordes*, *Mush*)
 
 ---
 
@@ -24,6 +24,7 @@ Previously, I've developed:
 
 - [LinkedIn](https://www.linkedin.com/in/harg2001/)
 - [Bluesky](https://bsky.app/profile/harg2001.bsky.social)
+- [Steam](https://steamcommunity.com/id/har_g2001/)
 
 ---
 
@@ -41,11 +42,10 @@ My passion for game development goes back to childhood. I used to create games *
 
 ---
 
-## 📊 GitHub Stats
-
-[![Harg2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harg2001)](https://github.com/Harg2001/github-readme-stats)
-
-[![Harg2001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harg2001)](https://github.com/Harg2001/github-readme-stats)
+<details>
+  <summary>## 📊 GitHub Stats</summary>
+    TODO later > https://github.com/anuraghazra/github-readme-stats
+</details>
 
 ---
 
