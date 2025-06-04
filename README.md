@@ -5,8 +5,8 @@ Hi! I'm **Jeremy Harris**, known online as **Harg** — a solo indie game develo
 I'm currently working on an **action RPG in Godot**, inspired by *Diablo* and *Path of Exile*, using a **2D isometric view**. The project started in **March 2025** and is entirely self-developed. Although the repositories are private (for now), it's only because the project is still in an early and evolving phase. I sometimes share specific code snippets and design ideas with other developers on forums and Discord.
 
 Previously, I've developed:
-- Two games using **Flash**
-- One using **GameMaker**
+- Two games on Kongregate using **Flash**
+- One abandoned using **GameMaker**
 
 ---
 
@@ -38,7 +38,7 @@ I also plan to open-source parts of my future projects, especially those that ar
 
 ## 🎲 Why I Make Games
 
-My passion for game development goes back to childhood. I used to create games **on paper** to play with my sister — long before I had access to a computer. I’ve always loved storytelling, strategy, and role-playing worlds like *Dungeons & Dragons*, *Shadowrun*, and *Warhammer*. Game dev is not just a hobby — it’s a lifelong creative calling.
+My passion for game development goes back to childhood. I used to create games **on paper** to play with my sister — long before I had access to a computer. I’ve always loved storytelling, strategy, and role-playing worlds like *Dungeons & Dragons*, *Shadowrun*, and *Warhammer*.
 
 ---
 
