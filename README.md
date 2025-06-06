@@ -47,6 +47,8 @@ My passion for game development goes back to childhood. I used to create games *
   
 ![](https://komarev.com/ghpvc/?username=Harg2001&color=blue)
 
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHarg2001%2Fbadges&label=Repository%20Visits&countColor=%230c7ebe&style=flat&labelStyle=none)
+
 ![Harg2001's Stats](https://github-readme-stats.vercel.app/api?username=Harg2001&theme=darcula&show_icons=true&hide_border=false&count_private=true)
 
 ![Harg2001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harg2001&theme=darcula&hide_border=false)
