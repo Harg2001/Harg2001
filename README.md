@@ -38,7 +38,7 @@ I also plan to open-source parts of my future projects, especially those that ar
 
 ## 🎲 Why I Make Games
 
-My passion for game development goes back to childhood. I used to create games **on paper** to play with my sister — long before I had access to a computer. I’ve always loved storytelling, strategy, and role-playing worlds like *Dungeons & Dragons*, *Shadowrun*, and *Warhammer*.
+My passion for game development goes back to childhood. I used to create games **on paper** to play with my family — long before I had access to a computer. I’ve always loved storytelling, strategy, and role-playing worlds like *Dungeons & Dragons*, *Shadowrun*, and *Warhammer*.
 
 ---
 
