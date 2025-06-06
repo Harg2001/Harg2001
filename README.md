@@ -43,8 +43,16 @@ My passion for game development goes back to childhood. I used to create games *
 ---
 
 <details>
-  <summary>## 📊 GitHub Stats</summary>
-    TODO later > https://github.com/anuraghazra/github-readme-stats
+  <summary>WIP section</summary>
+  
+![](https://komarev.com/ghpvc/?username=Harg2001&color=blue)
+
+![Harg2001's Stats](https://github-readme-stats.vercel.app/api?username=Harg2001&theme=darcula&show_icons=true&hide_border=false&count_private=true)
+
+![Harg2001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harg2001&theme=darcula&hide_border=false)
+
+![Harg2001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harg2001&theme=darcula&show_icons=true&hide_border=false&layout=compact)
+
 </details>
 
 ---
